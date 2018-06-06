@@ -1,3 +1,0 @@
-true: package(core,core_extended,lwt)
-true: ppx(ppx-jane -as-ppx)
-true: thread
